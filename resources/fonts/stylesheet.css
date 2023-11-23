@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Arboria';
+    src: url('Arboria-Light.eot');
+    src: url('Arboria-Light.eot?#iefix') format('embedded-opentype'),
+        url('Arboria-Light.woff2') format('woff2'),
+        url('Arboria-Light.woff') format('woff'),
+        url('Arboria-Light.ttf') format('truetype'),
+        url('Arboria-Light.svg#Arboria-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arboria-Book';
+    src: url('Arboria-Book.eot');
+    src: url('Arboria-Book.eot?#iefix') format('embedded-opentype'),
+        url('Arboria-Book.woff2') format('woff2'),
+        url('Arboria-Book.woff') format('woff'),
+        url('Arboria-Book.ttf') format('truetype'),
+        url('Arboria-Book.svg#Arboria-Book') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arboria';
+    src: url('Arboria-Medium.eot');
+    src: url('Arboria-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Arboria-Medium.woff2') format('woff2'),
+        url('Arboria-Medium.woff') format('woff'),
+        url('Arboria-Medium.ttf') format('truetype'),
+        url('Arboria-Medium.svg#Arboria-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arboria';
+    src: url('Arboria-Black.eot');
+    src: url('Arboria-Black.eot?#iefix') format('embedded-opentype'),
+        url('Arboria-Black.woff2') format('woff2'),
+        url('Arboria-Black.woff') format('woff'),
+        url('Arboria-Black.ttf') format('truetype'),
+        url('Arboria-Black.svg#Arboria-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arboria';
+    src: url('Arboria-Bold.eot');
+    src: url('Arboria-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Arboria-Bold.woff2') format('woff2'),
+        url('Arboria-Bold.woff') format('woff'),
+        url('Arboria-Bold.ttf') format('truetype'),
+        url('Arboria-Bold.svg#Arboria-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
